@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "怪獣になりたい",
+  "base_artist": "Sakuzyo",
+  "createdAt": "2025-12-03T13:12:25.672663Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "怪獣になりたい (feat. 初音ミク)",
+      "artist": "Sakuzyo",
+      "has_synced": true,
+      "path": "select/01_怪獣になりたい_(feat._初音ミク)_Sakuzyo.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "怪獣になりたい (feat. 初音ミク)",
+      "artist": "Sakuzyo",
+      "has_synced": false,
+      "path": "select/pl_01_怪獣になりたい_(feat._初音ミク)_Sakuzyo.txt"
+    }
+  ]
+}
